@@ -16,7 +16,7 @@ export const About = () => {
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div>
                         <p className='sm:text-right text-4xl font-bold'>
-                            Hi. I'm Jubair, nice to meet you. Please take a look around.
+                            Hi. I'm Jobair, nice to meet you. Please take a look around.
                         </p>
                     </div>
                     <div>
