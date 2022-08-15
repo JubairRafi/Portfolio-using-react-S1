@@ -22,7 +22,7 @@ export const About = () => {
                     <div>
                         <p >
                             I am passionate about learning and building good software which improves my surrounding.
-                            I can get things done. Love to travel. What about a discussion about your software needs for your bussiness over a tea.
+                            I can get things done. Interested in blockchain and smart contract. Love to travel. How about a discussion about your software needs over a tea.
                             I would like to hear and tell some stories. 
                         </p>
                     </div>
